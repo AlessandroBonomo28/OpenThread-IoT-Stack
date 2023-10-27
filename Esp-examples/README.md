@@ -1,2 +1,2 @@
 # Examples for the ESP boards
-- blink
+- blink: [watch youtube tutorial](https://youtu.be/DShBrBBUAt4)
